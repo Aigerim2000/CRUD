@@ -1,2 +1,40 @@
 # CRUD
-[Screenshots.pdf](https://github.com/Aigerim2000/CRUD/files/6689655/Screenshots.pdf)
+Spring initializr
+Downloading package
+ 
+
+Postman
+Creating a new user, response “Saved”
+
+ 
+Reading users
+ 
+
+Updating by id, response “Updated”
+ 
+
+
+MySQL Workbench
+ 
+
+
+
+Changed
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Delete user by id
+ 
+Empty list
+ 
+
